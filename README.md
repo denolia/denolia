@@ -2,5 +2,5 @@
 - 👀 I’m interested in software development, games and tech
 - 👩‍💻 Currently working on Frontend apps (React and Typescript). Worked with Python (a lot), Kotlin, Java and C/C++ (a bit) before.
 - 🌱 Learning Remix and Vue right now just for fun.
-- 🐿 This github account is a stash for playground repos and test project outside of work.
+- 🐿 This github account is a stash for playground repos and test projects outside of work.
 - 📫 You can reach me in telegram: t.me/juliabubnova or just write me an email bubnova.j.i@gmail.com
